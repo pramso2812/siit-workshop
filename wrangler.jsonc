@@ -1,5 +1,5 @@
 {
-  "name": "chess-app",
+  "name": "siit-workshop2",
   "compatibility_date": "2025-12-26",
   "assets": {
     "directory": "./chess-app/dist"
